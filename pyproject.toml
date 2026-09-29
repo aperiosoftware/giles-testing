@@ -1,0 +1,5 @@
+[tool.giles-dev.pull_requests]
+enabled = true
+
+[tool.giles-dev.org_vetting]
+enabled = true
